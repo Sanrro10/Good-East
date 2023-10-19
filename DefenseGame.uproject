@@ -25,12 +25,12 @@
 		},
 		{
 			"Name": "ConsoleCommandsHelper",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher:\n//ue/marketplace/product/222ba159a5424c1eb0c0af6e60a58854"
 		},
 		{
 			"Name": "QuestEditor",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b60ac0a5d2224b0c8ecebc14d4a1b178"
 		}
 	]
