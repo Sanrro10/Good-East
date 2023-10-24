@@ -13,19 +13,26 @@
 
 ADefenseGameCharacter::ADefenseGameCharacter()
 {
-	// Set size for player capsule
-	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
 
+	CapsuleComponent = CreateDefaultSubobject<UCapsuleComponent>("CapsuleComponent");
+	// Set size for player capsule
+	CapsuleComponent->InitCapsuleSize(42.f, 96.0f);
+	CapsuleComponent->SetCollisionProfileName("Pawn");
+	CapsuleComponent->SetGenerateOverlapEvents(true);
+	CapsuleComponent->SetCanEverAffectNavigation(false);
+	CapsuleComponent->SetShouldUpdatePhysicsVolume(true);
+	RootComponent = CapsuleComponent;
+	
 	// Don't rotate character to camera direction
 	bUseControllerRotationPitch = false;
 	bUseControllerRotationYaw = false;
 	bUseControllerRotationRoll = false;
 
 	// Configure character movement
-	GetCharacterMovement()->bOrientRotationToMovement = true; // Rotate character to moving direction
-	GetCharacterMovement()->RotationRate = FRotator(0.f, 640.f, 0.f);
-	GetCharacterMovement()->bConstrainToPlane = true;
-	GetCharacterMovement()->bSnapToPlaneAtStart = true;
+	//GetMovementComponent()->bOrientRotationToMovement = true; // Rotate character to moving direction
+	//GetMovementComponent()->RotationRate = FRotator(0.f, 640.f, 0.f);
+	//GetMovementComponent()->bConstrainToPlane = true;
+	//GetMovementComponent()->bSnapToPlaneAtStart = true;
 
 	// Activate ticking in order to update the cursor every frame.
 	PrimaryActorTick.bCanEverTick = true;

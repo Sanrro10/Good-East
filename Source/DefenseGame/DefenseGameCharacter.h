@@ -7,12 +7,14 @@
 #include "DefenseGameCharacter.generated.h"
 
 UCLASS(Blueprintable)
-class ADefenseGameCharacter : public ACharacter
+class ADefenseGameCharacter : public APawn
 {
 	GENERATED_BODY()
 
 public:
 	ADefenseGameCharacter();
+
+	UCapsuleComponent* CapsuleComponent;
 
 	// Called every frame.
 	virtual void Tick(float DeltaSeconds) override;
