@@ -2,7 +2,7 @@
 
 #include "DefenseGameGameMode.h"
 #include "DefenseGamePlayerController.h"
-#include "DefenseGameCharacter.h"
+#include "Unit.h"
 #include "UObject/ConstructorHelpers.h"
 
 ADefenseGameGameMode::ADefenseGameGameMode()
