@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class DefenseGame : ModuleRules
+public class GoodEast : ModuleRules
 {
-	public DefenseGame(ReadOnlyTargetRules Target) : base(Target)
+	public GoodEast(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 

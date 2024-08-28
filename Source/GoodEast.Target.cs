@@ -3,9 +3,9 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class DefenseGameTarget : TargetRules
+public class GoodEastTarget : TargetRules
 {
-	public DefenseGameTarget(TargetInfo Target) : base(Target)
+	public GoodEastTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V4;

@@ -8,7 +8,7 @@
 #include "UnitCharacter.generated.h"
 
 UCLASS()
-class DEFENSEGAME_API AUnitCharacter : public ACharacter, public IGenericTeamAgentInterface
+class GOODEAST_API AUnitCharacter : public ACharacter, public IGenericTeamAgentInterface
 {
 	GENERATED_BODY()
 

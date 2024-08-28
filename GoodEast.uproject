@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "DefenseGame",
+			"Name": "GoodEast",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
