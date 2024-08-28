@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class DefenseGameTarget : TargetRules
+public class GoodEastEditorTarget : TargetRules
 {
-	public DefenseGameTarget(TargetInfo Target) : base(Target)
+	public GoodEastEditorTarget(TargetInfo Target) : base(Target)
 	{
-		Type = TargetType.Game;
+		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V4;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3;
-		ExtraModuleNames.Add("DefenseGame");
+		ExtraModuleNames.Add("GoodEast");
 	}
 }
