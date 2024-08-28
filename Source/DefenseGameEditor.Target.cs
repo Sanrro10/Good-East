@@ -10,6 +10,6 @@ public class DefenseGameEditorTarget : TargetRules
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V4;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3;
-		ExtraModuleNames.Add("DefenseGame");
+		ExtraModuleNames.Add("GoodEast");
 	}
 }
