@@ -12,14 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="136577a2-8dac-4f2c-9b21-0300ba582d96" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/GM_DefenseGame.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/GM_DefenseGame.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/GM_Tutorial.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/GM_Tutorial.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Commander/BP_Commander.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Commander/BP_Commander.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Widgets/SubMenus/WBP_Defeat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Widgets/SubMenus/WBP_Defeat.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Widgets/SubMenus/WBP_Victory.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Widgets/SubMenus/WBP_Victory.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Widgets/WidgetComponents/WBP_Items.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Widgets/WidgetComponents/WBP_Items.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Widgets/WidgetComponents/WBP_ToolTip.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Widgets/WidgetComponents/WBP_ToolTip.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/Final_Levels/L_Tutorial.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Final_Levels/L_Tutorial.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
