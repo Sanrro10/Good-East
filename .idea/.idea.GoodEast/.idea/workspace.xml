@@ -6,31 +6,30 @@
     <projectFile>../../UE_5.3/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj</projectFile>
     <projectFile>Intermediate/ProjectFiles/GoodEast.vcxproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="136577a2-8dac-4f2c-9b21-0300ba582d96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/DefenseGame/GoodEast.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DefenseGame.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DefenseGame.uproject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/DefenseGame.Target.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/DefenseGame/DefenseGame.Build.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/DefenseGame/DefenseGame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/DefenseGame/GoodEast.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/DefenseGame/DefenseGame.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/DefenseGame/GoodEast.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/DefenseGame/Public/UnitCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/DefenseGame/Public/UnitCharacter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/DefenseGameEditor.Target.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/GM_DefenseGame.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/GM_DefenseGame.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/GM_Tutorial.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/GM_Tutorial.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Commander/BP_Commander.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Commander/BP_Commander.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Widgets/SubMenus/WBP_Defeat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Widgets/SubMenus/WBP_Defeat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Widgets/SubMenus/WBP_Victory.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Widgets/SubMenus/WBP_Victory.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Widgets/WidgetComponents/WBP_Items.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Widgets/WidgetComponents/WBP_Items.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Widgets/WidgetComponents/WBP_ToolTip.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Widgets/WidgetComponents/WBP_ToolTip.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Final_Levels/L_Tutorial.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Final_Levels/L_Tutorial.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lIgj3zlS0MSTvKPFEG8hUUVtHf" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,29 +38,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "C++ Project.GoodEast.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;C++ Project.GoodEast.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\isanr\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\isanr\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\isanr\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\isanr\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\isanr\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\isanr\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C++ Project.GoodEast">
     <configuration name="GoodEast" type="CppProject" factoryName="C++ Project">
       <configuration_1>
