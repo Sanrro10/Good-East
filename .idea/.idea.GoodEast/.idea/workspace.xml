@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="136577a2-8dac-4f2c-9b21-0300ba582d96" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Widgets/WidgetComponents/WBP_Commander.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Widgets/WidgetComponents/WBP_Commander.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,6 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724873138039</updated>
       <workItem from="1724873139480" duration="304000" />
+      <workItem from="1725528823485" duration="672000" />
     </task>
     <servers />
   </component>
