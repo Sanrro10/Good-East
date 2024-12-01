@@ -11,32 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="136577a2-8dac-4f2c-9b21-0300ba582d96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Art/Animations/Geisha/Standing_2H_Magic_Attack_03/Driving_Standing_2H_Magic_Attack_03.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Art/Animations/Geisha/SustainedAttack_Montage.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GoodEast/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Art/Animations/Geisha/Standing_2H_Magic_Attack_03.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/Animations/Geisha/Standing_2H_Magic_Attack_03.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Art/Animations/Pikeman/Bayonet_Stab_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Art/Animations/Pikeman/Bayonet_Stab_1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Archer/ABP_Archer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Archer/ABP_Archer.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Archer/BP_Archer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Archer/BP_Archer.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Archer/BP_EnemyArcher.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Archer/BP_EnemyArcher.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Archer/BP_EnemyBruteArcher.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Archer/BP_EnemyBruteArcher.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/BP_AlliedUnit.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/BP_AlliedUnit.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/BP_EnemyUnit.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/BP_EnemyUnit.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/BP_Unit.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/BP_Unit.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Commander/BP_Commander.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Commander/BP_Commander.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Geisha/ABP_Geisha.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Geisha/ABP_Geisha.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Geisha/BP_Geisha.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Geisha/BP_Geisha.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Infantry/ABP_EnemyInfantry.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Infantry/ABP_EnemyInfantry.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Infantry/ABP_Monk.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Infantry/ABP_Monk.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Infantry/BP_EnemyBrutes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Infantry/BP_EnemyBrutes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Infantry/BP_EnemyInfantry.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Infantry/BP_EnemyInfantry.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Infantry/BP_Monk.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Infantry/BP_Monk.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Militia/ABP_Militia.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Militia/ABP_Militia.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Militia/BP_EnemyMilitia.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Militia/BP_EnemyMilitia.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Militia/BP_Militia.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Militia/BP_Militia.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Pikeman/ABP_Pikeman.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Pikeman/ABP_Pikeman.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Pikeman/BP_Pikeman.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/Units/Pikeman/BP_Pikeman.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/Final_Levels/L_MainMenu.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Final_Levels/L_MainMenu.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,6 +189,9 @@
       <workItem from="1732184929079" duration="3233000" />
       <workItem from="1732440117278" duration="5576000" />
       <workItem from="1732526701941" duration="1921000" />
+      <workItem from="1732732693372" duration="819000" />
+      <workItem from="1732792131193" duration="1206000" />
+      <workItem from="1732903185854" duration="5716000" />
     </task>
     <servers />
   </component>
